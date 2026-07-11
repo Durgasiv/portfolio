@@ -1,2 +1,2 @@
 # portfolio
-It's basic poertfolio resume 
+It's basic portfolio resume 
